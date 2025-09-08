@@ -20,14 +20,6 @@ project/
 ├── emails.csv # Dataset (Enron Emails)
 └── README.md # Project description
 
-### Prerequisites
-Make sure you have Python 3.7+ installed.
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/HadieSadeghi4/phishing-email-detection.git
-cd phishing-email-detection
 ## 🚀 Usage
 
 To use this project, open and run the `CSE-ARS.ipynb` Jupyter notebook. The notebook includes the following main sections:
@@ -76,5 +68,14 @@ The visualizations include:
 - Loss curves for BERT training
 - ROC curves for both models
 - Confidence scores for predictions
+
+### Prerequisites
+Make sure you have Python 3.7+ installed.
+
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/HadieSadeghi4/phishing-email-detection.git
+cd phishing-email-detection
 
 
